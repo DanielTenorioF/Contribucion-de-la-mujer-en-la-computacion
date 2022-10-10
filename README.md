@@ -11,3 +11,5 @@
 - [Joan Clarke](https://mujeresconciencia.com/2017/07/13/joan-clarke-la-criptologa-ayudo-descifrar-enigma/)
 - [Grace Murray](http://www3.gobiernodecanarias.org/aciisi/cienciasmc/web/biografias/grace_murray_u9.html)
 - [Elena García Armada](https://www.fundacionaquae.org/wiki/10-cientificas-espanolas-en-la-vanguardia-de-la-investigacion-2/)
+## Licencia
+![imagen](licencia.png)
