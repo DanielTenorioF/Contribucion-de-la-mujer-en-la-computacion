@@ -1,4 +1,5 @@
 # Contribucion-de-la-mujer-en-la-computacion
+Aquí conoceremos a algunas mujeres que contribuyeron en la computación a lo largo de la historia.
 ## Contribución de la mujer en la computación.
 - [Hedy Lamarr](hedyLamar.md)
 - [Radia Joy Perlman](radiaJoy.md)
