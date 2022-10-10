@@ -13,4 +13,3 @@
 - [Elena García Armada](https://www.fundacionaquae.org/wiki/10-cientificas-espanolas-en-la-vanguardia-de-la-investigacion-2/)
 ## Licencia
 ![imagen](licencia.png)
-qrCode.close(https://github.com/DanielTenorioF/Contribucion-de-la-mujer-en-la-computacion.git);
