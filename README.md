@@ -8,6 +8,6 @@
 ## Referencias
 - [Hedy Lamar](https://mujeresconciencia.com/2015/11/30/hedy-lamarr-la-inventora/)
 - [Radia Joy Perlman](https://mujeresconciencia.com/2020/12/31/las-redes-que-atraparon-a-radia-perlman/)
-- [Joan Clarke]
-- [Grace Murray]
+- [Joan Clarke](https://mujeresconciencia.com/2017/07/13/joan-clarke-la-criptologa-ayudo-descifrar-enigma/)
+- [Grace Murray](http://www3.gobiernodecanarias.org/aciisi/cienciasmc/web/biografias/grace_murray_u9.html)
 - [Elena García Armada](https://www.fundacionaquae.org/wiki/10-cientificas-espanolas-en-la-vanguardia-de-la-investigacion-2/)
